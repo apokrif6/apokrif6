@@ -2,4 +2,4 @@
 
 <b>Privately:</b> Game Designer 🎮
 
-My blog: https://apokrif6.github.io/
+[My blog (click) 📝](https://apokrif6.github.io)
