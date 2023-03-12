@@ -2,4 +2,4 @@
 
 <b>Privately:</b> Game Developer 🎮 and Dark Souls fan 🗡️
 
-[My blog (click) 📝](https://apokrif6.github.io)
+[My game design blog (click) 📝](https://apokrif6.github.io)
