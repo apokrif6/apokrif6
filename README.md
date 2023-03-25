@@ -34,6 +34,6 @@ My codewars solutions.
 
 </br>
 
-[My game design blog](https://apokrif6.github.io)
+[My game design blog 📝](https://apokrif6.github.io)
 
 Sometimes I write there...
