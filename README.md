@@ -22,9 +22,9 @@ Reusable widget with dynamic text creation. Can be used in blueprints.
 
 </br>
 
-[Paint It Out 🎨](https://github.com/apokrif6/PaintItOut) (In progress...)
+[Paint It Out 🎨](https://github.com/apokrif6/PaintItOut)
 
-Game with weapon which shoot colored ink. Weapon based on different independent components.
+FPP shooter prototype with weapon which shoot colored ink.
 
 </br>
 
