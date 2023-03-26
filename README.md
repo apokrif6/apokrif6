@@ -10,9 +10,9 @@ TPP arena shooter prototype.
 
 </br>
 
-[Fortune 🪙](https://github.com/apokrif6/Fortune)
+[Paint It Out 🎨](https://github.com/apokrif6/PaintItOut)
 
-Basic platformer with coins, different platforms' types and minigame at the end.
+FPP shooter prototype with weapon which shoot colored ink.
 
 </br>
 
@@ -22,9 +22,9 @@ Reusable widget with dynamic text creation. Can be used in blueprints.
 
 </br>
 
-[Paint It Out 🎨](https://github.com/apokrif6/PaintItOut)
+[Fortune 🪙](https://github.com/apokrif6/Fortune)
 
-FPP shooter prototype with weapon which shoot colored ink.
+Basic platformer with coins, different platforms' types and minigame at the end.
 
 </br>
 
