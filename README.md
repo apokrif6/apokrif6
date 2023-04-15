@@ -1,4 +1,4 @@
-<b>Privately: Game Developer 🎮 and Dark Souls fan 🗡️ </b>
+<b>Game Developer 🎮 and Dark Souls fan 🗡️</b>
 
 </br>
 
