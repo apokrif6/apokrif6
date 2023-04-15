@@ -1,6 +1,4 @@
-<b>Professionally:</b> Web Application Developer 💻
-
-<b>Privately:</b> Game Developer 🎮 and Dark Souls fan 🗡️
+<b>Privately: Game Developer 🎮 and Dark Souls fan 🗡️ </b>
 
 </br>
 
