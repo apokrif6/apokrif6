@@ -2,6 +2,10 @@
 
 </br>
 
+[Unleashed ⚔️](https://github.com/apokrif6/Unleashed) [In progress...]
+
+Small soulslike combat prototype.
+
 [Steel Bullets 🔫](https://github.com/apokrif6/SteelBullets)
 
 TPP arena shooter prototype.
