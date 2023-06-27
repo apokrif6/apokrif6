@@ -6,6 +6,8 @@
 
 Small soulslike combat prototype.
 
+</br>
+
 [Steel Bullets 🔫](https://github.com/apokrif6/SteelBullets)
 
 TPP arena shooter prototype.
