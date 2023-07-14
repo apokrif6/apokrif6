@@ -35,9 +35,3 @@ Basic platformer with coins, different platforms' types and minigame at the end.
 [Codewars C++ 👨‍💻](https://github.com/apokrif6/codewars-cpp)
 
 My codewars solutions.
-
-</br>
-
-[My game design blog 📝](https://apokrif6.github.io)
-
-Sometimes I write there...
