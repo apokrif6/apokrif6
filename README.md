@@ -2,9 +2,9 @@
 
 </br>
 
-[Unleashed ⚔️](https://github.com/apokrif6/Unleashed) [In progress...]
+[Unleashed ⚔️](https://github.com/apokrif6/Unleashed)
 
-Small soulslike combat prototype.
+Small soulslike combat system prototype.
 
 </br>
 
