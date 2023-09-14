@@ -1,4 +1,4 @@
-<b>Gameplay Programmer 🎮 and Dark Souls fan 🗡️</b>
+<b>Gameplay Programmer 🎮🗡️</b>
 
 </br>
 
