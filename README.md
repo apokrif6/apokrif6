@@ -4,7 +4,7 @@ Working with Unreal Engine 4/5.
 </br>
 Focused on AI, combat, Gameplay Ability System.
 
-[Unreal's BTs changing based on states. Proof of concept](https://github.com/apokrif6/Legioner)🤖
+[Unreal's BTs changing based on states. Proof of concept](https://github.com/apokrif6/Legion)🤖
 
 [TPP Shooter Prototype](https://github.com/apokrif6/SteelBullets)🔫
 
