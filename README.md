@@ -1,8 +1,8 @@
 <b>Gameplay Programmer 🎮</b>
 
-Working with Unreal Engine 4/5.
+Currently working with Unreal Engine 5.
 </br>
-Focused on AI, combat, Gameplay Ability System.
+Focusing on AI, combat, Gameplay Ability System.
 
 [Unreal's BTs changing based on states. Proof of concept](https://github.com/apokrif6/Legion)🤖
 
