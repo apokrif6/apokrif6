@@ -4,6 +4,8 @@ Currently working with Unreal Engine 5.
 </br>
 Focusing on AI, combat, Gameplay Ability System.
 
+[Blog](https://apokrif6.github.io/)👨🏻‍💻
+
 [Unreal's BTs changing based on states. Proof of concept](https://github.com/apokrif6/Legion)🤖
 
 [TPP Shooter Prototype](https://github.com/apokrif6/SteelBullets)🔫
