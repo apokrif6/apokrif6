@@ -14,8 +14,6 @@ Focusing on AI, combat, Gameplay Ability System.
 
 [New Quest Widget](https://github.com/apokrif6/NewMissionWidget)📝
 
-[Splatoonlike Projectiles](https://github.com/apokrif6/PaintItOut)🎨
-
 [Codewars solutions](https://github.com/apokrif6/codewars-cpp)💻
 
 [Leetcode solutions](https://github.com/apokrif6/leetcode-cpp)⌨️
