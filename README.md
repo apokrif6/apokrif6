@@ -4,7 +4,7 @@ Currently working with Unreal Engine 5.
 
 [Blog](https://apokrif6.github.io/)👨🏻‍💻
 
-[BlueprintGraph based plugin to create chains of montages to define attack combos (WIP)](https://github.com/apokrif6/ComboGraph)🤺
+[ComboGraph is Unreal Engine plugin which provides a system for defining and handling combo sequences](https://github.com/apokrif6/ComboGraph)🤺
 
 [TPP shooter with GAS and more other things](https://github.com/apokrif6/Rapid)💫
 
