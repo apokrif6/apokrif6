@@ -1,8 +1,11 @@
-<b>Unreal Engine Programmer 🎮</b>
+<b>Unreal Engine/C++ Programmer 🎮</b>
 
 Currently working with Unreal Engine 5.
+Interested in optimization, tools and useless stuff programming.
 
 [Blog](https://apokrif6.github.io/)👨🏻‍💻
+
+[SokudoEngine is game engine written in C++ with using Vulkan](https://github.com/apokrif6/SokudoEngine)⚙️
 
 [ComboGraph is Unreal Engine plugin which provides a system for defining and handling combo sequences](https://github.com/apokrif6/ComboGraph)🤺
 
