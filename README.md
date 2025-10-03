@@ -1,7 +1,7 @@
 <b>Unreal Engine/C++ Programmer 🎮</b>
 
 Currently working with Unreal Engine 5.
-Interested in optimization, tools and useless stuff programming.
+Interested in optimization, tools and systems programming.
 
 [Blog](https://apokrif6.github.io/)👨🏻‍💻
 
