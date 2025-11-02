@@ -1,7 +1,12 @@
 <b>Unreal Engine/C++ Programmer 🎮</b>
 
-Currently working with Unreal Engine 5.
-Interested in optimization, tools and systems programming.
+I’m a C++ Game Programmer with 6+ years of professional experience.
+
+I have strong expertise and in-depth knowledge of Unreal Engine, including the Gameplay Ability System, AI, animation systems, and engine-level development. Strong focus on tools programming – from extending editor functionality with Editor Utility Widgets to building workflow automation with Python.
+
+Skilled in profiling and optimization systems.
+
+Currently focused on game engines, performance, and tools programming.
 
 [Blog](https://apokrif6.github.io/)👨🏻‍💻
 
