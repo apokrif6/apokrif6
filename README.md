@@ -2,7 +2,7 @@
 
 I’m a C++ Game Programmer with 6+ years of professional experience.
 
-I have strong expertise and in-depth knowledge of Unreal Engine, including the Gameplay Ability System, AI, animation systems, and engine-level development. Strong focus on tools programming – from extending editor functionality with Editor Utility Widgets to building workflow automation with Python.
+I have strong expertise and in-depth knowledge of Unreal Engine, including the Gameplay Ability System, animation systems, tools and engine-level development. Strong focus on tools programming – from extending editor functionality with Editor Utility Widgets to building workflow automation with Python.
 
 Skilled in profiling and optimization systems.
 
