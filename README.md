@@ -4,7 +4,7 @@ C++ Game Programmer with 7+ years of professional experience, specializing in Un
 
 Strong expertise in designing and implementing gameplay systems, extending Unreal Engine functionality, and building tools that improve development workflows and productivity. Particular focus on performance profiling and optimization, engine-level development, and creating robust tools for artists and programmers.
 
-Currently focused on game engine architecture, performance, optimization, and tools programming.
+Currently focused Vulkan rendering and custom engine development.
 
 [Blog](https://apokrif6.github.io/)👨🏻‍💻
 
